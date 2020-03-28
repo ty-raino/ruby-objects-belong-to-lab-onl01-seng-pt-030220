@@ -9,4 +9,5 @@ class Artist
 
 end
 
-name = artist.name
+name = Artist.new(name)
+name.artist.name
