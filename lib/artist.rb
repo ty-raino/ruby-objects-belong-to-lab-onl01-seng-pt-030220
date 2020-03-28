@@ -8,3 +8,5 @@ class Artist
   end
 
 end
+
+name = artist.name
